@@ -10,7 +10,7 @@ The iOS-App scans for the peripheral set up by the NodeJS-Server. When found, it
 and looks for the writable characteristic. It writes a value to the characteristic every second to
 verify its presence. This value is logged by the server and stored to the DB.
 
-Dependencies
+Requirements
 ------------
 * min. iPhone4S
 * iOS7
