@@ -31,4 +31,6 @@ Screenshots/Images
 <a href="http://mfg.fhstp.ac.at/cms/wp-content/uploads/2014/02/Foto-26.02.14-11-33-44.png"><img src="http://mfg.fhstp.ac.at/cms/wp-content/uploads/2014/02/Foto-26.02.14-11-33-44.png" alt="Screenshot iOSBLEPresence" width="200"></a>
 <a href="http://mfg.fhstp.ac.at/cms/wp-content/uploads/2014/02/Foto-26.02.14-11-33-22.png"><img src="http://mfg.fhstp.ac.at/cms/wp-content/uploads/2014/02/Foto-26.02.14-11-33-22.png" alt="Screenshot iOSBLEPresence" width="200"></a>
 <a href="http://mfg.fhstp.ac.at/cms/wp-content/uploads/2014/02/Foto-26.02.14-11-32-28.png"><img src="http://mfg.fhstp.ac.at/cms/wp-content/uploads/2014/02/Foto-26.02.14-11-32-28.png" alt="Screenshot iOSBLEPresence" width="200"></a>
+<a href="http://mfg.fhstp.ac.at/cms/wp-content/uploads/2014/02/Foto-26.02.14-12-14-25.png"><img src="http://mfg.fhstp.ac.at/cms/wp-content/uploads/2014/02/Foto-26.02.14-12-14-25.png" alt="Screenshot iOSBLEPresence" width="200"></a>
+</p>
 </p>
