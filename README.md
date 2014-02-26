@@ -18,3 +18,7 @@ Requirements
 References
 ----------
 http://mfg.fhstp.ac.at/development/bluetooth-le-presence-detection-mit-ios-und-raspberry-pi/
+
+Screenshots/Images
+------------------
+<p><a href="http://mfg.fhstp.ac.at/cms/wp-content/uploads/2014/02/Foto-26.02.14-08-56-34.png"><img src="http://mfg.fhstp.ac.at/cms/wp-content/uploads/2014/02/Foto-26.02.14-08-56-34.png" alt="Screenshot Console PiPresenceServer" width="400"></a></p>
