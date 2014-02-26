@@ -26,6 +26,7 @@ Screenshots/Images
 <p><a href="http://mfg.fhstp.ac.at/cms/wp-content/uploads/2014/02/Foto-26.02.14-08-56-34.png"><img src="http://mfg.fhstp.ac.at/cms/wp-content/uploads/2014/02/Foto-26.02.14-08-56-34.png" alt="Screenshot iOSBLEPresence" width="200"></a>
 <a href="http://mfg.fhstp.ac.at/cms/wp-content/uploads/2014/02/Foto-26.02.14-08-56-51.png"><img src="http://mfg.fhstp.ac.at/cms/wp-content/uploads/2014/02/Foto-26.02.14-08-56-51.png" alt="Screenshot iOSBLEPresence" width="200"></a>
 <a href="http://mfg.fhstp.ac.at/cms/wp-content/uploads/2014/02/Foto-26.02.14-11-26-35.png"><img src="http://mfg.fhstp.ac.at/cms/wp-content/uploads/2014/02/Foto-26.02.14-11-26-35.png" alt="Screenshot iOSBLEPresence" width="200"></a>
+<a href="http://mfg.fhstp.ac.at/cms/wp-content/uploads/2014/02/Foto-26.02.14-11-26-40.png"><img src="http://mfg.fhstp.ac.at/cms/wp-content/uploads/2014/02/Foto-26.02.14-11-26-40.png" alt="Screenshot iOSBLEPresence" width="200"></a>
 
 <a href="http://mfg.fhstp.ac.at/cms/wp-content/uploads/2014/02/Foto-26.02.14-11-33-44.png"><img src="http://mfg.fhstp.ac.at/cms/wp-content/uploads/2014/02/Foto-26.02.14-11-33-44.png" alt="Screenshot iOSBLEPresence" width="200"></a>
 <a href="http://mfg.fhstp.ac.at/cms/wp-content/uploads/2014/02/Foto-26.02.14-11-33-22.png"><img src="http://mfg.fhstp.ac.at/cms/wp-content/uploads/2014/02/Foto-26.02.14-11-33-22.png" alt="Screenshot iOSBLEPresence" width="200"></a>
